@@ -1,0 +1,7 @@
+Bundle-Name: registration-web
+Bundle-SymbolicName: com.liferay.practice.exercise.registration
+Bundle-Version: 1.0.0
+Export-Package:\
+com.liferay.practice.exercise.registration.exception,\ 
+com.liferay.practice.exercise.registration.validator,\
+com.liferay.practice.exercise.registration.constants
